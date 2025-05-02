@@ -4,7 +4,3 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-
-add_lunch_combo omni_Infinix-X6821-user
-add_lunch_combo omni_Infinix-X6821-userdebug
-add_lunch_combo omni_Infinix-X6821-eng
